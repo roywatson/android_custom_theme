@@ -6,7 +6,7 @@ A focused, production-quality example of building a custom theme system for Jetp
 
 The demo app is intentionally minimal. It omits ViewModels, Repositories, navigation, and dependency injection not because production apps don't need them, but because they are orthogonal to what is being demonstrated. The theme system has no opinion about how the rest of your application is structured, and integrates cleanly alongside any architecture you choose.
 
-A companion article walks through the design decisions in detail. *(link forthcoming)*
+A companion article walks through the design decisions in detail. [Read it here](https://medium.com/@rwatson_86305/building-a-custom-theme-system-in-jetpack-compose-b532598c635a). 
 
 ---
 
